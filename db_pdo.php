@@ -1,9 +1,9 @@
 <?php 
 
-$sName = "fdb1034.awardspace.net";
-$uName = "4394207_php";
-$pass = "rtupst@123";
-$db_name = "4394207_php";
+$sName = "";
+$uName = "";
+$pass = "";
+$db_name = "";
 
 try {
     $ponn = new PDO("mysql:host=$sName;dbname=$db_name", 
